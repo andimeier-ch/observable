@@ -1,7 +1,8 @@
 {
-  "name": "project-name",
+  "name": "@andimeier-ch/observable",
   "version": "0.1.0",
-  "description": "Vanilla JS Project Template",
+  "description": "A very simple observable implementation",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "index.js",
   "scripts": {
     "test": "jest"
